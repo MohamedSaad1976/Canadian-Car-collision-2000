@@ -174,11 +174,3 @@ by_V_Type.index = ['light Duty', 'cargo van', 'Other trucks and vans', 'Unit tru
                    'Fire engine','Snowmobile','Street car']
 plot5 = by_V_Type.plot(kind='bar',title='Collisions by Vehicale types', color='darkgray')
 plt.show()
-
-
-
-
-
-
-
-
